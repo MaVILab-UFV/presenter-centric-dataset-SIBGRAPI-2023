@@ -1,7 +1,7 @@
 <b>Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired</b>
 <br> [[Paper]]()
 
-<img src="resources/dataset-samples.jpg" align="center" />
+<img src="resources/dataset_samples.jpg" align="center" />
 
 
 This repository contains the proposed dataset of the paper **[Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired]()**.
