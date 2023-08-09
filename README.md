@@ -3,14 +3,24 @@
 <img src="resources/dataset_samples.jpg" align="center" />
 
 
-This repository contains the proposed dataset of the paper **[Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired]()**.
+This repository contains the proposed dataset of the paper **[Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired]()** published at *36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023*.
 
-We propose an approach to collect data automatically and a protocol to annotate this data specifically for this audience, aiming to support the development of Assistive Technology systems. We provide access to our three datasets: complete dataset, single person dataset, and annotated single person dataset.The complete dataset contains 10.939 images, the single person dataset contains 5689 images and the annotated single person dataset contains 570 images, each accompanied by three descriptive annotations. The images were collected from [youtube.com](https://www.youtube.com/). 
+We propose an approach to collect data automatically and a protocol to annotate this data specifically for this audience, aiming to support the development of Assistive Technology systems. We provide access to our three datasets: complete dataset, single person dataset, and annotated single person dataset. The complete dataset contains 10.939 images, the single person dataset contains 5689 images and the annotated single person dataset contains 570 images, each accompanied by three descriptive annotations. The images were collected from [youtube.com](https://www.youtube.com/). 
 
 If you find this code useful for your research, please cite the paper:
 
 ```
-adicionar depois
+@INPROCEEDINGS{Ferreira_2023_Sibgrapi,
+  author={Luísa Ferreira and Daniel Fernandes and Fabio Cerqueira and Marcos Ribeiro and Michel Silva},
+  booktitle={36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
+  title={Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired}, 
+  month = {TO APPEAR},
+  year={},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+}
 ```
 
 ---
@@ -51,7 +61,7 @@ Authors
 * Daniel Fernandes - PhD student - UFV - daniel.louzada@ufv.br
 * Fábio Cerqueira -  - UFF - frcerqueira@id.uff.br
 * Marcos Henrique - Professor at Universidade Federal de Viçosa (UFV) - marcosh.ribeiro@ufv.br
-* Michel Silva - Professor at Universidade Federal de Viçosa (UFV) - michel.m.melo@ufv.br
+* [Michel Silva](https://michelmelosilva.github.io/) - Assistant Professor at Universidade Federal de Viçosa (UFV) - michel.m.silva@ufv.br
 
 Institution
 ---
@@ -74,6 +84,6 @@ https://mavilab-ufv.github.io/
 Acknowledgements
 ===
 
-We would like to thanks CAPES, FAPEMIG and CNPq for funding this work; Ricson Luiz Oliveira Vilaça for fine-tunning the scene classification CNN; and our tireless annotators Allan Lopes, Júlia Vieira, Júlia Lopes, and Sophia Jorge.
+We would like to thanks CAPES, FAPEMIG and CNPq for funding this work; [Ricson Luiz Oliveira Vilaça}(https://github.com/ricsonl) for fine-tunning the scene classification CNN; and our tireless annotators Allan Lopes, Júlia Vieira, Júlia Lopes, and Sophia Jorge.
 
 ### Enjoy it! :smiley:
