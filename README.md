@@ -1,5 +1,4 @@
 <h1>Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired</h1>
-<br> [[Paper]]()
 
 <img src="resources/dataset_samples.jpg" align="center" />
 
@@ -62,11 +61,10 @@ Viçosa- Minas Gerais -Brazil
 Laboratory
 ---
 <p align="center" height=60>
-  <img src="[MaVILab](https://mavilab-ufv.github.io/images/mavilab-logo.png)" width="400" alt="Foto A">
-  <img src="[UFV](https://cdn.discordapp.com/attachments/729689711416967239/844210892916523018/Ygemzly2XsP3gzFbXjFyExvD00B3rBvPbDEOoNOB-4uL4NLF1YKM6kiypik1H4koNc5_sNVAAAy_PDq_kmh_CRmn1dvC1uyeckCs.png)" width="400" alt="Foto B">
+  <img src="[MaVILab](https://mavilab-ufv.github.io/images/mavilab-logo.png)" width="400">
+  <img src="[UFV](https://cdn.discordapp.com/attachments/729689711416967239/844210892916523018/Ygemzly2XsP3gzFbXjFyExvD00B3rBvPbDEOoNOB-4uL4NLF1YKM6kiypik1H4koNc5_sNVAAAy_PDq_kmh_CRmn1dvC1uyeckCs.png)" width="400">
 </p>
-![MaVILab](https://mavilab-ufv.github.io/images/mavilab-logo.png) | ![UFV](https://cdn.discordapp.com/attachments/729689711416967239/844210892916523018/Ygemzly2XsP3gzFbXjFyExvD00B3rBvPbDEOoNOB-4uL4NLF1YKM6kiypik1H4koNc5_sNVAAAy_PDq_kmh_CRmn1dvC1uyeckCs.png)
---- | ---
+
 
 **MaVILab:** Machine Vision and Intelligence Laboratory
 https://mavilab-ufv.github.io/
