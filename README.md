@@ -49,7 +49,9 @@ Authors
 
 * Luísa Ferreira - BsC student - UFV - luisa.ferreira@ufv.br.br
 * Daniel Fernandes - PhD student - UFV - daniel.louzada@ufv.br
-* Michel Silva - Assistant Professor at Universidade Federal de Viçosa (UFV) - michel.m.melo@ufv.br
+* Fábio Cerqueira -  - UFF - frcerqueira@id.uff.br
+* Marcos Henrique - Professor at Universidade Federal de Viçosa (UFV) - marcosh.ribeiro@ufv.br
+* Michel Silva - Professor at Universidade Federal de Viçosa (UFV) - michel.m.melo@ufv.br
 
 Institution
 ---
