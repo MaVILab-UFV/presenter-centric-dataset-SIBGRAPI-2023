@@ -60,10 +60,8 @@ Viçosa- Minas Gerais -Brazil
 
 Laboratory
 ---
-<p align="center" height=15>
-  <img src="https://mavilab-ufv.github.io/images/mavilab-logo.png" >
-  <img src="https://cdn.discordapp.com/attachments/729689711416967239/844210892916523018/Ygemzly2XsP3gzFbXjFyExvD00B3rBvPbDEOoNOB-4uL4NLF1YKM6kiypik1H4koNc5_sNVAAAy_PDq_kmh_CRmn1dvC1uyeckCs.png" >
-</p>
+![MaVILab](https://mavilab-ufv.github.io/images/mavilab-logo.png) | ![UFV](https://cdn.discordapp.com/attachments/729689711416967239/844210892916523018/Ygemzly2XsP3gzFbXjFyExvD00B3rBvPbDEOoNOB-4uL4NLF1YKM6kiypik1H4koNc5_sNVAAAy_PDq_kmh_CRmn1dvC1uyeckCs.png)
+--- | ---
 
 
 **MaVILab:** Machine Vision and Intelligence Laboratory
