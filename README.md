@@ -60,7 +60,7 @@ Viçosa- Minas Gerais -Brazil
 
 Laboratory
 ---
-<p align="center" height=60>
+<p align="center" height=30>
   <img src="https://mavilab-ufv.github.io/images/mavilab-logo.png" width="400">
   <img src="https://cdn.discordapp.com/attachments/729689711416967239/844210892916523018/Ygemzly2XsP3gzFbXjFyExvD00B3rBvPbDEOoNOB-4uL4NLF1YKM6kiypik1H4koNc5_sNVAAAy_PDq_kmh_CRmn1dvC1uyeckCs.png" width="400">
 </p>
