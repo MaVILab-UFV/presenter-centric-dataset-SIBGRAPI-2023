@@ -38,11 +38,9 @@ We're giving you a script along with text files that list the filenames for each
     ```
 
 - ### 2 . Running the script
-    To obtain the images from the dataset, run the `dataset/collect_images.py` file. For the Complete Dataset, use '1' as the argument, '2' for the single person dataset, and '3' for the annotated single person dataset. You can find the annotations for the annotated single person dataset in the `dataset/annotations.json` file.
+    To get the images from the dataset, use the `dataset/collect_images.py` script. You'll need to give the file path as an argument. For instance, if you want images from the complete dataset, provide the path to the complete_dataset.txt file. The annotations for the annotated single-person dataset are available in `dataset/annotations.csv`. As mentioned in the paper, there are 754 images with three descriptors, 252 with two descriptors, and 104 with a single descriptor.
     ```bash
-    python collect_images.py 1
-    python collect_images.py 2
-    python collect_images.py 3
+    python collect_images.py path/to/txt/file
     ```
 
 ---
