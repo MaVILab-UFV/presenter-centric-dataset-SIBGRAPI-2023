@@ -1,17 +1,26 @@
-<b>Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired</b>
-<br> [[Paper]]()
+<h1>Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired</h1>
 
-<img src="resources/dataset-samples.jpg" align="center" />
+<img src="resources/dataset_samples.jpg" align="center" />
 
 
-This repository contains the proposed dataset of the paper **[Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired]()**.
+This repository contains the proposed dataset of the paper **[Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired]()** published at *36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023*.
 
-We propose an approach to collect data automatically and a protocol to annotate this data specifically for this audience, aiming to support the development of Assistive Technology systems. We provide access to our three datasets: complete dataset, single person dataset, and annotated single person dataset.The complete dataset contains 10.939 images, the single person dataset contains 5689 images and the annotated single person dataset contains 570 images, each accompanied by three descriptive annotations. The images were collected from [youtube.com](https://www.youtube.com/). 
+We propose an approach to collect data automatically and a protocol to annotate this data specifically for this audience, aiming to support the development of Assistive Technology systems. We provide access to our three datasets: complete dataset, single person dataset, and annotated single person dataset. The complete dataset contains 10.939 images, the single person dataset contains 5689 images and the annotated single person dataset contains 570 images, each accompanied by three descriptive annotations. The images were collected from [youtube.com](https://www.youtube.com/). 
 
 If you find this code useful for your research, please cite the paper:
 
 ```
-adicionar depois
+@INPROCEEDINGS{Ferreira_2023_Sibgrapi,
+  author={Luísa Ferreira and Daniel Fernandes and Fabio Cerqueira and Marcos Ribeiro and Michel Silva},
+  booktitle={36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
+  title={Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired}, 
+  month = {TO APPEAR},
+  year={},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+}
 ```
 
 ---
@@ -38,7 +47,7 @@ We're giving you a script along with text files that list the filenames for each
 
 ---
 
-Following the steps provided, you'll acquire the images from the datasets. The script will 
+Following the steps provided, you'll acquire the images from the datasets.
 
 
 
@@ -50,7 +59,9 @@ Authors
 
 * Luísa Ferreira - BsC student - UFV - luisa.ferreira@ufv.br.br
 * Daniel Fernandes - PhD student - UFV - daniel.louzada@ufv.br
-* Michel Silva - Assistant Professor at Universidade Federal de Viçosa (UFV) - michel.m.melo@ufv.br
+* Fábio Cerqueira -  - UFF - frcerqueira@id.uff.br
+* Marcos Henrique - Professor at Universidade Federal de Viçosa (UFV) - marcosh.ribeiro@ufv.br
+* [Michel Silva](https://michelmelosilva.github.io/) - Assistant Professor at Universidade Federal de Viçosa (UFV) - michel.m.silva@ufv.br
 
 Institution
 ---
@@ -61,9 +72,9 @@ Viçosa- Minas Gerais -Brazil
 
 Laboratory
 ---
-
 ![MaVILab](https://mavilab-ufv.github.io/images/mavilab-logo.png) | ![UFV](https://cdn.discordapp.com/attachments/729689711416967239/844210892916523018/Ygemzly2XsP3gzFbXjFyExvD00B3rBvPbDEOoNOB-4uL4NLF1YKM6kiypik1H4koNc5_sNVAAAy_PDq_kmh_CRmn1dvC1uyeckCs.png)
 --- | ---
+
 
 **MaVILab:** Machine Vision and Intelligence Laboratory
 https://mavilab-ufv.github.io/
@@ -73,6 +84,6 @@ https://mavilab-ufv.github.io/
 Acknowledgements
 ===
 
-We would like to thanks CAPES, FAPEMIG and CNPq for funding this work; Ricson Luiz Oliveira Vilaça for fine-tunning the scene classification CNN; and our tireless annotators Allan Lopes, Júlia Vieira, Júlia Lopes, and Sophia Jorge.
+We would like to thanks CAPES, FAPEMIG and CNPq for funding this work; [Ricson Luiz Oliveira Vilaça}(https://github.com/ricsonl) for fine-tunning the scene classification CNN; and our tireless annotators Allan Lopes, Júlia Vieira, Júlia Lopes, and Sophia Jorge.
 
 ### Enjoy it! :smiley:
