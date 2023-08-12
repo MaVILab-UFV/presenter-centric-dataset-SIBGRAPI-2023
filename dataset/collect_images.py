@@ -7,9 +7,9 @@ dataset = sys.argv[1]
 
 images = []
 videos = {}
-file = sys.argv[1]
+file = os.path.basename(sys.argv[1])
+folder_name = os.path.splitext(file)[0]
 
-folder_name = file.split('.')[0]
 print(folder_name)
 with open(file, 'r') as f:
     for line in f:
@@ -32,7 +32,7 @@ for image in images:
     if id_video not in videos:
         videos[id_video] = []
     videos[id_video].append(id_frame)
-
+failed_downloads = []
 for filename, frames in videos.items():
     link = "https://www.youtube.com/watch?v=" + filename
     if filename + '.mp4' in os.listdir('videos') or filename in processed_videos:
@@ -54,7 +54,9 @@ for filename, frames in videos.items():
         except Exception as e:
             print(f"Download error for {link}. Retrying ({attempt+1}/{retry_attempts})...")
             time.sleep(5)  # Wait for 5 seconds before retrying
-
+    if(not os.path.exists("videos/" + filename + ".mp4")):
+        print("Could not download video: " + filename)
+        continue
     video = cv.VideoCapture("videos/" + filename + ".mp4")
     for frame in frames:
         video.set(cv.CAP_PROP_POS_FRAMES, float(frame))
