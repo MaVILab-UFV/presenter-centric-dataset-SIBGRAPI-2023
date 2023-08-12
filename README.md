@@ -5,7 +5,7 @@
 
 This repository contains the proposed dataset of the paper **[Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired]()** published at *36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2023*.
 
-We propose an approach to collect data automatically and a protocol to annotate this data specifically for this audience, aiming to support the development of Assistive Technology systems. We provide access to our three datasets: complete dataset, single person dataset, and annotated single person dataset. The complete dataset contains 10.939 images, the single person dataset contains 5689 images and the annotated single person dataset contains 570 images, each accompanied by three descriptive annotations. The images were collected from [youtube.com](https://www.youtube.com/). 
+We propose an approach to collect data automatically and a protocol to annotate this data specifically for this audience, aiming to support the development of Assistive Technology systems. We provide access to our three datasets: complete dataset, single person dataset, and annotated single person dataset. The complete dataset contains 10.939 images, the single person dataset contains 5689 images and the annotated single person dataset contains 967 images, each accompanied by three descriptive annotations. The images were collected from [youtube.com](https://www.youtube.com/). 
 
 If you find this code useful for your research, please cite the paper:
 
@@ -38,7 +38,7 @@ We're giving you a script along with text files that list the filenames for each
     ```
 
 - ### 2 . Running the script
-    To get the images from the dataset, use the `dataset/collect_images.py` script. You'll need to give the file path as an argument. For instance, if you want images from the complete dataset, provide the path to the complete_dataset.txt file. The annotations for the annotated single-person dataset are available in `dataset/annotations.csv`. As mentioned in the paper, there are 754 images with three descriptors, 252 with two descriptors, and 104 with a single descriptor.
+    To get the images from the dataset, use the `dataset/collect_images.py` script. You'll need to give the file path as an argument. For instance, if you want images from the complete dataset, provide the path to the complete_dataset.txt file. The annotations for the annotated single-person dataset are available in `dataset/annotations.csv`. As mentioned in the paper, there are 684 images with three descriptors, 190 with two descriptors, and 93 with a single descriptor.
     ```bash
     python collect_images.py path/to/txt/file
     ```
