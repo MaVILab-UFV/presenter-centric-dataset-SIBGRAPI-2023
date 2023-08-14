@@ -55,7 +55,7 @@ Contact
 Authors
 ---
 
-* Luísa Ferreira - BsC student - UFV - luisa.ferreira@ufv.br.br
+* Luísa Ferreira - BsC student - UFV - luisa.ferreira@ufv.br.br (Scholarship from PIBIC-UFV/CNPq)
 * Daniel Fernandes - PhD student - UFV - daniel.louzada@ufv.br
 * Fábio Cerqueira -  - UFF - frcerqueira@id.uff.br
 * Marcos Henrique - Professor at Universidade Federal de Viçosa (UFV) - marcosh.ribeiro@ufv.br
@@ -82,6 +82,6 @@ https://mavilab-ufv.github.io/
 Acknowledgements
 ===
 
-We would like to thanks CAPES, FAPEMIG and CNPq for funding this work; [Ricson Luiz Oliveira Vilaça}(https://github.com/ricsonl) for fine-tunning the scene classification CNN; and our tireless annotators Allan Lopes, Júlia Vieira, Júlia Lopes, and Sophia Jorge.
+The authors would like to thanks CAPES, FAPEMIG, PIBIC-UFV/CNPq, CNPq, and BICJr-UFV/FAPEMIG for funding different parts of this work; [Ricson Luiz Oliveira Vilaça](https://github.com/ricsonl) for fine-tunning the scene classification CNN; and our tireless annotators Allan Lopes, Júlia Vieira, Júlia Lopes, and Sophia Jorge.
 
 ### Enjoy it! :smiley:
