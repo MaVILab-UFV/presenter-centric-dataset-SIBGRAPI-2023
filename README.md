@@ -48,7 +48,7 @@ Following the steps provided, you'll acquire the images from the datasets.
 
 Access annotations for Annotated Single Person Dataset:
 ===
- The annotations for the annotated single-person dataset are available in `dataset/annotations.csv`. As mentioned in the paper, there are 684 images with three descriptors, 190 with two descriptors, and 93 with a single descriptor. The information about the annotated single-person dataset can be found in the file named annotations.csv within the 'dataset' folder. Each line in the CSV file consists of four columns: image ID, original description, first adjusted description, and second adjusted description. If all columns have descriptions, then the image has three annotations. If the second adjustment column is empty, it means the image has only two descriptors. Lastly, if both the first and second adjustment columns are empty, the image has only one description.
+ The annotations are available in `dataset/annotations.csv`. As mentioned in the paper, there are 684 images with three descriptors, 190 with two descriptors, and 93 with a single descriptor. The information about the annotated single-person dataset can be found in the file named annotations.csv within the 'dataset' folder. Each line in the CSV file consists of four columns: image ID, original description, first adjusted description, and second adjusted description. If all columns have descriptions, then the image has three annotations. If the second adjustment column is empty, it means the image has only two descriptors. Lastly, if both the first and second adjustment columns are empty, the image has only one description.
  
 
 
