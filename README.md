@@ -61,7 +61,7 @@ Authors
 
 * [Luísa Ferreira](https://github.com/ferreiraluisa) - BsC student - UFV - luisa.ferreira@ufv.br.br (Scholarship from PIBIC-UFV/CNPq 2022-2023)
 * [Daniel Fernandes](https://github.com/daniellf) - PhD Candidate - UFV - daniel.louzada@ufv.br
-* Fábio Cerqueira -  - UFF - frcerqueira@id.uff.br
+* Fábio Cerqueira - Professor at Universidade Federal Fluminense (UFF) - UFF - frcerqueira@id.uff.br
 * Marcos Henrique - Professor at Universidade Federal de Viçosa (UFV) - marcosh.ribeiro@ufv.br
 * [Michel Silva](https://michelmelosilva.github.io/) - Assistant Professor at Universidade Federal de Viçosa (UFV) - michel.m.silva@ufv.br
 
