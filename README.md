@@ -12,14 +12,14 @@ If you find this code useful for your research, please cite the paper:
 ```
 @INPROCEEDINGS{Ferreira_2023_Sibgrapi,
   author={Luísa Ferreira and Daniel Fernandes and Fabio Cerqueira and Marcos Ribeiro and Michel Silva},
-  booktitle={36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
+  booktitle={2023 36th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)}, 
   title={Presenter-Centric Image Collection and Annotation: Enhancing Accessibility for the Visually Impaired}, 
-  month = {TO APPEAR},
-  year={},
+  year={2023},
   volume={},
   number={},
-  pages={},
-  doi={}
+  pages={199-204},
+  keywords={COVID-19;Visualization;Protocols;Annotations;Pandemics;Employment;Machine learning},
+  doi={10.1109/SIBGRAPI59091.2023.10347135}}
 }
 ```
 
